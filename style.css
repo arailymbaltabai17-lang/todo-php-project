@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    border-radius: 12px;
+    border: none;
+}
+
+.task-done {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
